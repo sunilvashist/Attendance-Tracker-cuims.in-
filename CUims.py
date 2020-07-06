@@ -75,7 +75,7 @@ password = "{your_mail_password}"
 
 # Create a multipart message and set headers
 message = MIMEMultipart()
-message["From"] = '{your_mail_id}'
+message["From"] = '{sender name}'
 # mail_id to which you want to send summary
 message["To"] = '{mail_id}'
 message["Subject"] = 'Attendance Summary '
