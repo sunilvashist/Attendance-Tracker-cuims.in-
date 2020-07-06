@@ -1,5 +1,6 @@
 # CUims-Automation
 CUims-Automation updated 2 mins ago 
+
 Ideology:-:-
 
 Daily login to CUims and checking my attendance was getting me irritated. So to get rid of this, I thought why should not make such a program which autologin to CUims and send me 
