@@ -1,6 +1,6 @@
 # CUims-Automation
 CUims-Automation updated 2 mins ago 
-Idealogy:-
+Ideology:-:-
 
 Daily login to CUims and checking my attendance was getting me irritated. So to get rid of this, I thought why should not make such a program which autologin to CUims and send me 
 
@@ -16,7 +16,7 @@ I divided this into three parts:
 
 2. Extract the latest downloaded attendance summary from the download folder or the download path.
 
-3  Send the attendance summary as an attachment through the mail.
+3. Send the attendance summary as an attachment through the mail.
 
 Modules Used :
 
@@ -36,11 +36,11 @@ Modules Used :
 
 8. requests
 
-7.wheel All modules needs to be imported first before starting project
+7.wheel All modules need to be imported first before starting project
 
 Python 3.6 should be installed and set as virtual/ main environment.
 
 Prerequisite :
 
-python basic syntax Oops concept for better understanding. After successful implementation , it would send you the attendance summary through email.
-There are many functions to add for future scope.
+python basic syntax Oops concept for better understanding. After successful implementation, it would send you the attendance summary through email.
+There are many functions to add to future scope.
